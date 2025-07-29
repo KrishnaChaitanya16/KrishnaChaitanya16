@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Chaitanya</h1>
-<h3 align="center">3rd-year Computer Science Engineering student at IIIT Bangalore | Passionate about AI/ML, Time-Series Analysis & Cross-platform App Dev | Flutter • Java • Python • C++</h3>
+<h3 align="center">3rd-year Computer Science Engineering student at IIIT Bangalore | Passionate about AI/ML & Cross-platform App Dev | Flutter • Java • Python • C++</h3>
 
 - 🔭 I’m currently working on **Quality Check Portal for Agricultural Imports and Exports**
 
