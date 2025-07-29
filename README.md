@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Krishna Chaitanya</h1>
 <h3 align="center">3rd-year Computer Science Engineering student at IIIT Bangalore | Passionate about AI/ML, Time-Series Analysis & Cross-platform App Dev | Flutter • Java • Python • C++</h3>
 
-- 🔭 I’m currently working on **CME Detector**
+- 🔭 I’m currently working on **Quality Check Portal for Agricultural Imports and Exports**
 
-- 🌱 I’m currently learning **Flutter, Supabase, Time-Series ML, ResUNet++, Solar Physics (Aditya-L1 data)**
+- 🌱 I’m currently learning **Advanced ML techniques and AR-based app development**
+- 
+- 🌐 My portfolio: [https://krishnachaitanya.dev](https://krishnachaitanya.dev)
 
-- 👨‍💻 All of my projects are available at [https://github.com/KrishnaChaitanya16/](https://github.com/KrishnaChaitanya16/)
+- 👨‍💻 All of my projects are available at [LINK](https://portfolio-pi-tawny-a8r2tz6f0r.vercel.app/)
 
 - 📫 How to reach me **16krish2005@gmail.com**
 
