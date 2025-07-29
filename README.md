@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Quality Check Portal for Agricultural Imports and Exports**
 
 - 🌱 I’m currently learning **Advanced ML techniques and AR-based app development**
-- 
+  
 - 🌐 My portfolio: [https://krishnachaitanya.dev](https://portfolio-pi-tawny-a8r2tz6f0r.vercel.app/)
 
 - 📫 How to reach me **16krish2005@gmail.com**
